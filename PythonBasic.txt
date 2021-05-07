@@ -10,4 +10,11 @@ List
 Tuples
     ex: list = ()
 
+String Methods
+    .strip()
+    .len()
+    .lower()
+    .upper()
+    .split()
+
 
