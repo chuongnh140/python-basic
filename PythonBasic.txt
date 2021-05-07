@@ -1,0 +1,13 @@
+List
+    ex: list = []
+    add items to list 
+        at the end: .append()
+
+
+    change items in list
+        list[index] = someitems
+
+Tuples
+    ex: list = ()
+
+
