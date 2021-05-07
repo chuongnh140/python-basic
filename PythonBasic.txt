@@ -11,10 +11,16 @@ Tuples
     ex: list = ()
 
 String Methods
-    .strip()
-    .len()
-    .lower()
-    .upper()
-    .split()
+    .strip(): remove all space from the string
+    .len(): leng of string
+    .lower(): ...
+    .upper(): ...
+    .capitalize(): ...
+    .split(): create the list out of the string input ,
+              seperate by anything like '.', default is space
+
+
+functions
+    
 
 
