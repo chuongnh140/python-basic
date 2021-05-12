@@ -21,6 +21,30 @@ String Methods
 
 
 functions
-    
+
+read file in pythons
+    file = open('file.txt','r')
+
+    f = file.readlines()
+    print(f)
+    file.close()
+
+work with list and seperate colon
+    file = open('file.txt','r')
+
+    f = file.readlines()
+
+    newList = []
+    for i in f:
+        newList.append(i[:-1])
+
+    print(newList)
+
+
+    file.close()
+
+
+
+
 
 
